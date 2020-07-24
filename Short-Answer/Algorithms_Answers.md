@@ -17,7 +17,7 @@ c) this simply adds 1 operation every time you
 
 ## Exercise II
 
-So in this problem, I am assuming we are trying to find f given n. I think it's pretty straight forward.
+So in this problem, I am assuming we are trying to find f given n. I think it's pretty straight forward. It's  runtime complexity is O(log(n))
 
 Given N
 declare a middle variable
